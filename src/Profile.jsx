@@ -36,7 +36,7 @@ const Profile = () => {
         <div className="profile-cont">
           <div className="profile-header">
             <img
-              className="profile-pic"
+              className="profile-pics"
               src={user.profile_picture}
               alt="Profile"
             />
