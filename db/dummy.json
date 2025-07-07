@@ -1,0 +1,123 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "username": "travel_john",
+      "profile_picture": "https://randomuser.me/api/portraits/men/32.jpg",
+      "image_url": "https://picsum.photos/seed/travel1/600/600",
+      "caption": "Exploring the hidden beaches of Bali! 🌴☀️",
+      "likes": 128,
+      "timestamp": "2 hours ago"
+    },
+    {
+      "id": 2,
+      "username": "foodie_amy",
+      "profile_picture": "https://randomuser.me/api/portraits/women/45.jpg",
+      "image_url": "https://picsum.photos/seed/food2/600/600",
+      "caption": "Homemade pasta for dinner 🍝",
+      "likes": 256,
+      "timestamp": "5 hours ago"
+    },
+    {
+      "id": 3,
+      "username": "fit_chris",
+      "profile_picture": "https://randomuser.me/api/portraits/men/67.jpg",
+      "image_url": "https://picsum.photos/seed/fitness3/600/600",
+      "caption": "Early morning grind 💪",
+      "likes": 342,
+      "timestamp": "1 day ago"
+    },
+    {
+      "id": 4,
+      "username": "art_lover",
+      "profile_picture": "https://randomuser.me/api/portraits/women/15.jpg",
+      "image_url": "https://picsum.photos/seed/art4/600/600",
+      "caption": "Abstract art exhibit 🎨",
+      "likes": 98,
+      "timestamp": "3 days ago"
+    },
+    {
+      "id": 5,
+      "username": "nature_mike",
+      "profile_picture": "https://randomuser.me/api/portraits/men/88.jpg",
+      "image_url": "https://picsum.photos/seed/nature5/600/600",
+      "caption": "Hiking through the forest 🌲",
+      "likes": 220,
+      "timestamp": "6 hours ago"
+    },
+    {
+      "id": 6,
+      "username": "nature_mike",
+      "profile_picture": "https://randomuser.me/api/portraits/men/88.jpg",
+      "image_url": "https://picsum.photos/seed/nature5/600/600",
+      "caption": "Hiking through the forest 🌲",
+      "likes": 220,
+      "timestamp": "6 hours ago"
+    },
+    {
+      "id": 7,
+      "username": "fit_chris",
+      "profile_picture": "https://randomuser.me/api/portraits/men/67.jpg",
+      "image_url": "https://picsum.photos/seed/fitness3/600/600",
+      "caption": "Early morning grind 💪",
+      "likes": 342,
+      "timestamp": "1 day ago"
+    }
+  ],
+
+  "profile": {
+    "id": 1,
+    "username": "billa_2k05",
+    "full_name": "billa",
+    "bio": "Passionate about coding, design, and photography.",
+    "profile_picture": "https://randomuser.me/api/portraits/men/10.jpg",
+    "followers": 120,
+    "following": 150,
+    "posts_count": 34
+  },
+
+  "stories": [
+    {
+      "id": 1,
+      "username": "alex_jones",
+      "profile_picture": "https://randomuser.me/api/portraits/men/11.jpg",
+      "story_image": "https://picsum.photos/300/500?random=1"
+    },
+    {
+      "id": 2,
+      "username": "emma_watson",
+      "profile_picture": "https://randomuser.me/api/portraits/women/12.jpg",
+      "story_image": "https://picsum.photos/300/500?random=2"
+    },
+    {
+      "id": 3,
+      "username": "nature_lover",
+      "profile_picture": "https://randomuser.me/api/portraits/men/13.jpg",
+      "story_image": "https://picsum.photos/300/500?random=3"
+    },
+    {
+      "id": 4,
+      "username": "travel_diaries",
+      "profile_picture": "https://randomuser.me/api/portraits/women/14.jpg",
+      "story_image": "https://picsum.photos/300/500?random=4"
+    },
+    {
+      "id": 5,
+      "username": "foodie_life",
+      "profile_picture": "https://randomuser.me/api/portraits/men/15.jpg",
+      "story_image": "https://picsum.photos/300/500?random=5"
+    },
+    {
+      "id": 6,
+      "username": "tech_geek",
+      "profile_picture": "https://randomuser.me/api/portraits/men/16.jpg",
+      "story_image": "https://picsum.photos/300/500?random=6"
+    },
+    {
+      "id": 7,
+      "username": "fitnessqueen",
+      "profile_picture": "https://randomuser.me/api/portraits/women/17.jpg",
+      "story_image": "https://picsum.photos/300/500?random=7"
+    }
+  ]
+}

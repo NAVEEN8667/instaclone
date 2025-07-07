@@ -1,0 +1,39 @@
+{
+  "suggestions": [
+    {
+      "id": 1,
+      "username": "alex_jones",
+      "full_name": "Alex Jones",
+      "profile_picture": "https://randomuser.me/api/portraits/men/1.jpg",
+      "mutual_followers": 3
+    },
+    {
+      "id": 2,
+      "username": "emma_watson",
+      "full_name": "Emma Watson",
+      "profile_picture": "https://randomuser.me/api/portraits/women/2.jpg",
+      "mutual_followers": 5
+    },
+    {
+      "id": 3,
+      "username": "nature_lover",
+      "full_name": "Nature Explorer",
+      "profile_picture": "https://randomuser.me/api/portraits/men/3.jpg",
+      "mutual_followers": 2
+    },
+    {
+      "id": 4,
+      "username": "travel_diaries",
+      "full_name": "Travel Diaries",
+      "profile_picture": "https://randomuser.me/api/portraits/women/4.jpg",
+      "mutual_followers": 1
+    },
+    {
+      "id": 5,
+      "username": "foodie_life",
+      "full_name": "Food Lover",
+      "profile_picture": "https://randomuser.me/api/portraits/men/5.jpg",
+      "mutual_followers": 4
+    }
+  ]
+}
